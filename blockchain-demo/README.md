@@ -8,7 +8,7 @@ This will be a simple implemention of a blockchain for learning purposes. I will
 * block validity
 
 ## Further links
-[bitcoinj library] (https://github.com/bitcoinj/bitcoinj/blob/master/README.md)
+[bitcoinj library] (https://bitcoinj.github.io/)
 
 ## Contact
 Feel free to contact me. 
