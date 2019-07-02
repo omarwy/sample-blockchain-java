@@ -11,22 +11,4 @@ public class BlockMining {
 		this.chain = chain;
 	}
 
-//	public void mine (Transaction tx) {
-//		transactions.add(tx);
-//		if (transactions.size() > ) {
-//			
-//		}
-//	}
-//
-//	// Increases nonce value until hash target is reached.
-//	public void mineBlock(int difficulty) {
-//		merkleRoot = StringUtil.getMerkleRoot(transactions);
-//		String target = StringUtil.getDificultyString(difficulty); // Create a string with difficulty * "0"
-//		while (!hash.substring(0, difficulty).equals(target)) {
-//			nonce++;
-//			hash = calculateHash();
-//		}
-//		System.out.println("Block Mined!!! : " + hash);
-//	}
-
 }
